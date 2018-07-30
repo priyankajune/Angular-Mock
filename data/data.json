@@ -1,0 +1,80 @@
+[
+			{
+				"id":1,
+				"type": "Condo",
+				"price": 2200,
+				"address": "213 groove street",
+				"description" : "excellent" ,
+				"details" : {
+					"bedrooms" : 2,
+					"bathrooms" :1,
+					"area": 921
+				},
+				"image":"crib-1"
+			},
+			{
+				"id":2,
+				"type": "House",
+				"price": 2206,
+				"address": "219 grinbe street",
+				"description" : "nice" ,
+				"details" : {
+					"bedrooms" : 2,
+					"bathrooms" :1,
+					"area": 921
+				},
+				"image":"crib-1"
+			},
+			{
+				"id":3,
+				"type": "Duplex",
+				"price": 2200,
+				"address": "213 groove street",
+				"description" : "excellent" ,
+				"details" : {
+					"bedrooms" : 2,
+					"bathrooms" :1,
+					"area": 921
+				},
+				"image":"crib-1"
+			},
+			{
+				"id":4,
+				"type": "Apartment",
+				"price": 4520,
+				"address": "hjkwapra vkskk",
+				"description" : "nice kinda service",
+				"details" : {
+					"bedrooms" : 3,
+					"bathrooms" :2,
+					"area": 890
+				},
+				"image":"crib-1" 
+			},
+			{
+				"id":5,
+				"type": "Condo",
+				"price": 5200,
+				"address": "ljjdsx bbslklkjsxkj",
+				"description" : "goood",
+				"details" : {
+					"bedrooms" : 1,
+					"bathrooms" :2,
+					"area": 780
+				},
+				"image":"crib-1" 
+			},
+			{
+				"id":6,
+				"type": "Duplex",
+				"price": 4520,
+				"address": "hola muntaapra",
+				"description" : "avg",
+				"details" : {
+					"bedrooms" : 2,
+					"bathrooms" :1,
+					"area": 921
+				},
+				"image":"crib-1" 
+			}
+]
